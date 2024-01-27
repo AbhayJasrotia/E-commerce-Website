@@ -42,6 +42,10 @@ Visit http://localhost:3000 in your browser to see the website.
 Contributing
 We welcome contributions from everyone! Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests to us.
 
+ScreenShot
+![Screenshot 2024-01-27 145002](https://github.com/AbhayJasrotia/E-commerce-Website/assets/137689404/7916e64b-8d0b-4161-811c-cd18263b74b9)
+![Screenshot 2024-01-27 145024](https://github.com/AbhayJasrotia/E-commerce-Website/assets/137689404/7e7f6214-d0c7-4e91-bd60-6e08ca34121f)
+
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
